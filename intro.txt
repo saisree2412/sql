@@ -1,0 +1,3 @@
+Readme
+
+- Find all my sql learnings in this repo! 
